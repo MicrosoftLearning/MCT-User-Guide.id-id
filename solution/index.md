@@ -1,5 +1,5 @@
-# Solusi GitHub Microsoft Pembelajaran untuk lab kursus
+# Solusi GitHub Microsoft Learning untuk lab kursus
 
-Tim Microsoft Pembelajaran telah membuat solusi yang memungkinkan mereka menerbitkan kunci jawaban lab dan lab (LAK) yang diperbarui dan skrip lab yang diperbarui secara teratur ke GitHub. Solusinya juga mencakup 
+Tim Microsoft Learning telah membuat solusi yang memungkinkan mereka menerbitkan kunci jawaban lab (LAK) dan lab yang diperbarui serta skrip lab yang diperbarui secara teratur ke GitHub. Solusi tersebut juga mencakup 
 
 > Segera hadir
